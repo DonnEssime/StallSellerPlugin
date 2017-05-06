@@ -4,11 +4,11 @@ paginae/act/add
 #uint16 pver
 2
 #String name
-Sell all of the items in your inventory to the white stall you have open currently. Will lag!
+Automatically sell items to the stall (have the stall interface opened). Toggle between sell modes by running the plugin with an item on your mouse. ((Hotkey: g)
 #String preq
 
 #uint16 hk
-119
+103
 #uint16 ad length
 2
 #String ad[0]
