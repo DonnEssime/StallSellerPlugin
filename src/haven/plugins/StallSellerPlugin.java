@@ -86,8 +86,6 @@ public class StallSellerPlugin extends Plugin {
                             } catch (InterruptedException ex) {
                             }
                         }
-
-                        items = ui.gui.maininv.getSameName("", true);
                     }
                     ui.message("[StallSeller] Stopped selling items.", GameUI.MsgType.INFO);
                 }
